@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 [![Vladimir's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladimirRadovanovic&show_icons=true)](https://github.com/VladimirRadovanovic)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladimirRadovanovic&layout=compact)](https://github.com/VladimirRadovanovic)
+
+
