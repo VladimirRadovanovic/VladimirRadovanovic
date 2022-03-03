@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<p>I am a husband, father, and software engineer that enjoys the feeling of being scared by a task that seems insurmountable.</p>
 <!--
 **VladimirRadovanovic/VladimirRadovanovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
