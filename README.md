@@ -21,7 +21,7 @@ I am a husband, father, and software engineer that enjoys the feeling of being s
   <a href="https://www.linkedin.com/in/vladimir-radovanovic-476311224/">
   <img align="left" src="https://camo.githubusercontent.com/7e1a1a039c75a7c4d2a91d7f97bf0a1c2adcf7cb49b7dbbfc02963a4f9fdaca4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" height=30 />
 </a>
-    <a href="https://www.linkedin.com/in/vladimir-radovanovic-476311224/">
+    <a href="https://vladimirradovanovic.github.io/">
   <img align="left" src="https://camo.githubusercontent.com/6aea3aa5f0982902108c2f5ad3f5e4a607c9825e97a17baf628cd8f88f952baf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d2532333044314232373f7374796c653d666f722d7468652d6261646765" height=30 />
 </a>
 <a href="https://angel.co/u/vladimir-radovanovic-2">
